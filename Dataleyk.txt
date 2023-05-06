@@ -1,2 +1,4 @@
+
                                               Dataleyk
-introduction
+
+Introduction: Dataleyk is a prospetary software which is used for storage and big data analysis. It provides many features for the customer like data storage,big data analysis,encription,wharehousing etc. It is a paid software and the amount of this features are minimal.
